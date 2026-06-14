@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+Please take a gander at what's cookin' around here.
+
+👍😎🐱‍👤
+
 <!--
 **fmLekae/fmLekae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
